@@ -1,0 +1,29 @@
+{
+  "name": "nodeMongo",
+  "version": "1.0.0",
+  "description": "Node.js and MongoDb tutorial",
+  "main": "index.js",
+  "dependencies": {
+    "body-parser": "^1.15.0",
+    "express": "^4.13.4",
+    "mongoose": "^4.4.11"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dougritter/mongodb-and-nodejs-learn.git"
+  },
+  "keywords": [
+    "Node.js",
+    "MongoDb"
+  ],
+  "author": "Douglas Ritter",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dougritter/mongodb-and-nodejs-learn/issues"
+  },
+  "homepage": "https://github.com/dougritter/mongodb-and-nodejs-learn"
+}
